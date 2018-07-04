@@ -11,7 +11,9 @@ Sometimes wait staff are deployed to other tasks such as bringing out dishes for
 Hungry customers frustrated because the neighboring table is taking forever to order?  
 Take away customers queuing for their orders to be taken?  
 
-   Well, this app should solve all these problems and free up restaurant wait staff so they can serve the customer better and more efficiently.  
+   Well, this app should solve all these problems and free up restaurant wait staff so they can serve the customer better and more efficiently. 
+
+   Customer can now pipe all thier request via this app, be it ordering dishes, which routes directly to the kitchen, or just to get a glass of cold water fast because the food was too spicy. It is all at the customer's fingertip. 
 
    Restaurants saves cost for having more effient staff and customers are much happier knowing that their requests will be responded to promptly.  
 
